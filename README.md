@@ -6,7 +6,7 @@ I’m a junior data analyst building projects in SQL, Python, and AI workflow au
 - Data analysis
 - SQL and Python
 - AI agents and workflow automation
-- Urban mobility and logistics decision systems
+
 
 ## Featured Projects
 - **Urban AI Coordination Platform**  
@@ -19,5 +19,5 @@ I’m a junior data analyst building projects in SQL, Python, and AI workflow au
 SQL • Python • IBM watsonx Orchestrate • Google Maps API • Data Cleaning • Analytics
 
 ## Contact
-- LinkedIn: [your link]
-- Email: [your email]
+- LinkedIn: www.linkedin.com/in/ayoubberra
+- Email: Ayoubreguigberra@gmail.com
