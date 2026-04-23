@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ayoub Berra
 
-<!--
-**ayoubberra18/ayoubberra18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a junior data analyst building projects in SQL, Python, and AI workflow automation.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Data analysis
+- SQL and Python
+- AI agents and workflow automation
+- Urban mobility and logistics decision systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Urban AI Coordination Platform**  
+  AI decision-support system for drivers and dispatchers using IBM watsonx Orchestrate
+
+- **Qudyan Delivery Data Analysis**  
+  SQL and Python analysis of delivery operations, revenue, driver performance, and order trends
+
+## Tools & Technologies
+SQL • Python • IBM watsonx Orchestrate • Google Maps API • Data Cleaning • Analytics
+
+## Contact
+- LinkedIn: [your link]
+- Email: [your email]
