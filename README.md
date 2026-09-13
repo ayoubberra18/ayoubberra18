@@ -18,8 +18,8 @@ I have an engineering background and hands-on experience using **Excel, SQL, Pyt
 ### [Qudyan Delivery Data Analysis](https://github.com/ayoubberra18/qudyan-delivery-data-analysis)
 SQL and Python analysis of real delivery operations data, including order trends, cancellations, payment behavior, demand patterns, and operational performance.
 
-### [Urban AI Coordination Platform](https://github.com/ayoubberra18/urban-ai-coordination-platform)
-AI decision-support concept focused on coordination, operations, and real-time decision making using agentic AI workflows.
+### [Urban AI Coordination Platform — IBM SkillsBuild](https://github.com/ayoubberra18/urban-ai-coordination-platform)
+Built for the **IBM SkillsBuild Agentic AI Experiential Learning Lab 2026**. Multi-agent decision-support system for San Francisco professional drivers and dispatchers using IBM watsonx Orchestrate, live 511 SF Bay data, Google Maps, confidence scoring, and human escalation logic.
 
 ### [Instate Moving Analytics](https://github.com/ayoubberra18/instate-moving-analytics)
 Operations analytics project focused on business performance, lead conversion, revenue, and decision-support reporting.
